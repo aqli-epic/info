@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+<!-- CODE-OF-CONDUCT.md is generated from CODE-OF-CONDUCT.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# aqli-epic: Code of Conduct
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+* more to come...

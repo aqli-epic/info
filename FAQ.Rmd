@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+<!-- FAQ.md is generated from FAQ.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# aqli-epic: FAQ
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+* more to come...
