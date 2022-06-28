@@ -7,9 +7,7 @@
 <!-- badges: end -->
 
 ## Goals of aqli-epic:
-
--   Bridge the gap between the epidemiology and the AQLI world.
--   Work towards highlighting the gaps in the current research and use
-    that to encourage the research community to cohesively work towards
-    identifying ways that will help us fill those gaps.
--   more to come…
+This is a repository for beta analyses by the AQLI Team. 
+Some of examples of the work includes: 
+-   Work towards highlighting the gaps in the current air quality and epidemiological research 
+-   Share underlying datasets, calculations, and figures from our AQLI Annual Updates and Factsheets
